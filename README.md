@@ -1,13 +1,11 @@
-# Unity3DS
+# UnityNX (Switch)
 
-* Unity N3DS documentation by Natifyyy_(me!).
+* Unity Nintendo Switch documentation by Natifyyy_(me!).
 
-* Unity 2017 with 3DS Build Support also found by me but originally backed up onto drive (google drive) by someone else.
+* No download for the SDK. Kinda don't feel like getting sued. But if you do a quick search you'll find it sooner or later.
 
 ## Table Of Contents
 
-* [Unity 2017 with 3DS Build Support, NDI, and CTR SDK](https://archive.org/details/unity-2017-3ds-sdk_202308_202308)
+* [Controls](https://github.com/natifygh/Unity/blob/NintendoSwitch/Controls/README.md) - The markdown file that tells how the controls work
 
-* [Controls](https://github.com/natifygh/Unity/blob/N3DS/Controls/Controls.md) - Basic controls with a control script for Unity N3DS (SCRIPT COMING SOON)
-
-* [Scripts](https://github.com/natifygh/Unity/tree/N3DS/Scripts) - Some scripts to enhance your Unity N3DS game.
+* [Scripts](https://github.com/natifygh/Unity/blob/NintendoSwitch/Scripts/README.md) - The markdown file that tells how the controls work
