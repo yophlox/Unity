@@ -8,4 +8,4 @@
 
 * [Controls](https://github.com/yophlox/Unity/blob/NX/Controls/README.md) - The markdown file that tells how the controls work
 
-* [Scripts](https://github.com/yophlox/Unity/blob/NX/Scripts/README.md) - The markdown file that tells how the controls work
+* [Scripts](https://github.com/yophlox/Unity/blob/NX/Scripts/README.md) - Scripts that can help ye with Unity NX Development
